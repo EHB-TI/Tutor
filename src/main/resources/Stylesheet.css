@@ -1,0 +1,39 @@
+.noBG-button{
+    -fx-background-color: none;
+}
+.navBtn{
+    -fx-background-color: #373F51;
+}
+.navBtn:hover{
+    -fx-border-color: #FEF0B5;
+}
+.inputText{
+    -fx-border-color: #373F51;
+    -fx-border-radius: 4px;
+}
+
+.button{
+    -fx-background-color: #373F51;
+    -fx-border-radius: 4px;
+    -fx-padding: 5px;
+}
+.circlelImage{
+    -fx-border-radius: 50%;
+}
+.header{
+    -fx-background-color: #fff;
+}
+
+.headerBrand{
+    -fx-background-color: #373F51;
+}
+.valueBox{
+    -fx-background-color: #fff;
+}
+.squar-valueBox{
+    -fx-pref-width: 150px;
+    -fx-pref-height: 150px;
+}
+.longBox{
+    -fx-padding: 15px 20px;
+}
